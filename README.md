@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/jet-cockpit-empty-airplane-cabin-interior-illustration_1441-3914.jpg?w=1380&t=st=1677771700~exp=1677772300~hmac=9494593ab3957ba110957335d4ea053d51a1016daa9bf9198e19174825bc6995)](https://anushkagupta747.io)
+
 <h1 align="center">Hi 👋, I'm Anushka</h1>
 <h3 align="center">An Information Technology Undergrad and cloud enthusiast from India</h3>
 <img align="right" alt="coding" width="400" src="https://b858118.smushcdn.com/858118/wp-content/uploads/2021/05/Hero-GIF.gif?lossy=1&strip=1&webp=1">
